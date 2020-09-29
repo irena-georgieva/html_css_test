@@ -1,0 +1,39 @@
+https://autoprefixer.github.io/
+animate.style
+https://www.w3schools.com/js/js_reserved.asp
+$(document).ready(function(){
+   $('button').click(function(){
+      $('p').hide();
+   });
+});
+1. Какво е js array. Примери.
+2. Какво е js object. Примери.
+3. Какво са js функциите. Примери.
+https://kenwheeler.github.io/slick/
+https://owlcarousel2.github.io/OwlCarousel2/
+
+var, let, const, global scope, function scope, block scope
+https://www.w3schools.com/js/js_reserved.asp
+object - {}
+array - []
+function name() {}
+for цикъл
+
+let testPosition = $('.test').position().top;
+		let getScrollPosition = $(document).scrollTop();
+		
+		$(window).scroll(function(){
+		 if (getScrollPosition > testPosition) {
+			$('button').css('background-color', 'red');
+		  }
+		  else {
+		  	$('button').css('background-color', 'green');
+		  }
+		});
+
+
+admin
+IPVOP1b(bM7tH00A1r
+
+www2.example.org
+
